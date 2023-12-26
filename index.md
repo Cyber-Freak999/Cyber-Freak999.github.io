@@ -4,19 +4,29 @@ title: Home
 ---
 
 <!--Favicon-->
-<link rel="shortcut icon" href="favico.ico" type="image/vnd.microsoft.icon">
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Root</a>&#xA0;&#xA0;&#xA0; <a href="/posts/thm/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/htb/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ptd/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/pg/index.html">ProvingGrounds</a>&#xA0;&#xA0;&#xA0;<a href="/posts/HackMyVM/index.html">HackMyVM</a>&#xA0;&#xA0;&#xA0;<a href="/posts/articles/index.html">Articles</a>&#xA0;&#xA0;&#xA0;<a href="/posts/projects/index.html">Projects</a>&#xA0;&#xA0;&#xA0;</h2>
+<!-- <link rel="shortcut icon" href="./favico.ico" type="image/vnd.microsoft.icon"> -->
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="manifest" href="/icons/site.webmanifest">
+<link rel="shortcut icon" href="/favicon/favicon.ico">
 
-* * *
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="/posts/tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/hackthebox/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;<a href="/posts/pwntilldwn/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/proving_grounds/index.html">ProvingGrounds</a>&#xA0;&#xA0;&#xA0;<a href="/posts/HackMyVM/index.html">HackMyVM</a>&#xA0;&#xA0;&#xA0;<a href="/posts/articles/index.html">Articles</a>&#xA0;&#xA0;&#xA0;<a href="/posts/projects/index.html">Projects</a>&#xA0;&#xA0;&#xA0;</h2>
+
+---
+
 ### Whoami:~#
-* * *
 
-Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, an 18-year-old achieving senior penetration tester. I post different hacking tricks, writeups, articles, and anything related to hacking that I learn 0x..., You can also view my **[portfolio](https://sec-fortress.github.io/portfolio/)**, Fully Optimized for Desktop Only 🖥️
+---
 
+Yo 👋, welcome to my Cyber Security Blog! I'm Precious, an aspiring penetration tester also known as Cyberfreak999. I post different hacking writeups, articles, and anything related to hacking that I learn 0x...,Fully Optimized for Desktop Only 🖥️
 
-* * *
+---
+
 ### **TryHackMe Writeups:~#**
-* * *
+
+---
+
 <!-- - [[Jan 21 2023]] [TakeOver](https://markuched13.github.io/posts/thm/takeover.html) `Subdomain Enumeration`
 - [[Jan 28 2023]] [ReversingELF](https://markuched13.github.io/posts/thm/reversingelf.html) `Reverse Engineering`
 - [[Jan 28 2023]] [0x41haz](https://markuched13.github.io/posts/thm/0x41haz.html) `Reverse Engineering`
@@ -25,9 +35,10 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, an 18-year-old achievi
 - [[Feb 09 2023]] [UnbakedPie](https://markuched13.github.io/posts/thm/unbakedpie.html) `Python Deserialization, Docker, Python Library Hijack`
 - [[Feb 11 2023]] [MD2PDF](https://markuched13.github.io/posts/thm/md2pdf.html) `SSRF`
 - [[Feb 14 2023]] [DearQA](https://markuched13.github.io/posts/thm/dearqa.html) `Ret2Win (BOF)` -->
-- [[June 23 2023]] [Source](https://sec-fortress.github.io/posts/thm/posts/source.html) `Webmin, Metasploit`
+
+<!-- - [[June 23 2023]] [Source](https://sec-fortress.github.io/posts/thm/posts/source.html) `Webmin, Metasploit`
 - [[June 24 2023]] [Agent Sudo](https://sec-fortress.github.io/posts/thm/posts/agentsudo.html) `BruteForce, Redirections, Steganography`
-- [[Aug. 10 2023]] [Simple CTF](https://sec-fortress.github.io/posts/thm/posts/simplectf.html) `Unauthenticated SQLI, Encoding` 
+- [[Aug. 10 2023]] [Simple CTF](https://sec-fortress.github.io/posts/thm/posts/simplectf.html) `Unauthenticated SQLI, Encoding`
 - [[Sep. 07 2023]] [ZSCTF1](https://sec-fortress.github.io/posts/thm/posts/zsctf1.html) `Authorization Bypass, Pass-The-Hash`
 - [[Sep. 10 2023]] [Kiba](https://sec-fortress.github.io/posts/thm/posts/kiba.html) `Prototype Pollution, RCE, Capabilities`
 - [[Sep. 15 2023]] [ZSCTF2](https://sec-fortress.github.io/posts/thm/posts/ZSCTF2.html) `RCE, Docker Privilege Escalation`
@@ -45,13 +56,14 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, an 18-year-old achievi
 - [[Oct. 24 2023]] [Gaming Server](https://sec-fortress.github.io/posts/thm/posts/GamingServer.html) `ssh2john, lxd privilege escalation`
 - [[Oct. 25 2023]] [Chocolate Factory](https://sec-fortress.github.io/posts/thm/posts/ChocolateFactory.html) `Command injection, lateral movement, vi privilege escalation`
 - [[Oct. 26 2023]] [ColddBox](https://sec-fortress.github.io/posts/thm/posts/colddboxeasy.html) `wpscan, RCE, vim privilege escalation`
-- [[Nov. 24 2023]] [Plotted-TMS](https://sec-fortress.github.io/posts/thm/posts/Plotted-TMS.html) `Enumeration, Unrestricted File Upload, doas x openssl privilege escalation`
+- [[Nov. 24 2023]] [Plotted-TMS](https://sec-fortress.github.io/posts/thm/posts/Plotted-TMS.html) `Enumeration, Unrestricted File Upload, doas x openssl privilege escalation` -->
 
+---
 
-
-* * *
 ### **HackTheBox Writeups:~#**
-* * *
+
+---
+
 <!-- - [[Jan 18 2023]] [ScriptKiddie](https://markuched13.github.io/posts/htb/scriptkiddie.html) `Msfvenom, Command Injection, Sudo`
 - [[Jan 18 2023]] [Lame](https://markuched13.github.io/posts/htb/lame.html) `Metasploit, Command Injection`
 - [[Jan 18 2023]] [Legacy](https://markuched13.github.io/posts/htb/legacy.html) `Metasploit`
@@ -59,7 +71,8 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, an 18-year-old achievi
 - [[Jan 18 2023]] [Beep](https://markuched13.github.io/posts/htb/beep.html) `LFI, Hydra`
 - [[Jan 18 2023]] [Optimum](https://markuched13.github.io/posts/htb/optimum.html) `Command Injection`
 - [[Jan 18 2023]] [Arctic](https://markuched13.github.io/posts/htb/arctic.html) `ColdFusion, RCE` -->
-- [[Aug. 7 2023]] [irked](https://sec-fortress.github.io/posts/htb/posts/irked.html) `Enumeration, IRCD, Steganography`
+
+<!-- - [[Aug. 7 2023]] [irked](https://sec-fortress.github.io/posts/htb/posts/irked.html) `Enumeration, IRCD, Steganography`
 - [[Aug. 10 2023]] [Templated](https://sec-fortress.github.io/posts/htb/posts/templated.html) `Flask, SSTI, RCE`
 - [[Aug. 10 2023]] [Phonebook](https://sec-fortress.github.io/posts/htb/posts/phonebook.html) `LDAP, Bruteforcing`
 - [[Aug. 11 2023]] [Bounty Hunter](https://sec-fortress.github.io/posts/htb/posts/bountyhunter.html) `XXE injection, Python Privilege Escalation`
@@ -72,11 +85,14 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, an 18-year-old achievi
 - [[Nov. 14 2023]] [Lame](https://sec-fortress.github.io/posts/htb/posts/lame.html) `Username Command execution, Manual exploit`
 - [[Nov. 22 2023]] [Beep](https://sec-fortress.github.io/posts/htb/posts/beep.html) `curl, Elastix LFI`
 - [[Nov. 06 2023]] [Codify](https://sec-fortress.github.io/posts/htb/posts/codify.html) `Node.Js RCE, Lateral movement, Sudo Privilege escalation`
-- [[Nov. 21 2023]] [Hospital](https://sec-fortress.github.io/posts/htb/posts/Hospital.html) `File Upload = RCE, OverlayFS, Lateral Movement, Admin creds exposure`
+- [[Nov. 21 2023]] [Hospital](https://sec-fortress.github.io/posts/htb/posts/Hospital.html) `File Upload = RCE, OverlayFS, Lateral Movement, Admin creds exposure` -->
 
-* * *
+---
+
 ### **PwnTillDawn Writeups:~#**
-* * *
+
+---
+
 <!-- - [[Feb 12 2023]] [PwnDrive Academy](https://markuched13.github.io/posts/ptd/pwndriveacademy.html) `Weak Authentication, File Upload`
 - [[Feb 12 2023]] [DOOMOPS](https://markuched13.github.io/posts/ptd/doomops.html) `[Not Authorized]`
 - [[Feb 12 2023]] [ElMariachi-PC](https://markuched13.github.io/posts/ptd/elmariachipc.html) `ThinVNC`
@@ -84,38 +100,49 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, an 18-year-old achievi
 - [[Feb 12 2023]] [HollyWood](https://markuched13.github.io/posts/ptd/hollywood.html) `ActiveMQ`
 - [[Feb 12 2023]] [MrBlue](https://markuched13.github.io/posts/ptd/mrblue.html) `Eternal Blue (MS17-010)`
 - [[Feb 12 2023]] [IAmGroot](https://markuched13.github.io/posts/ptd/groot.html) `[Not Authorized]` -->
-- [[Jul. 028 2023]] [Mr. Blue](https://sec-fortress.github.io/posts/ptd/posts/Mr.Blue.html) `MS017-010, Eternal Blue, Manual Exploitation`
+
+<!-- - [[Jul. 028 2023]] [Mr. Blue](https://sec-fortress.github.io/posts/ptd/posts/Mr.Blue.html) `MS017-010, Eternal Blue, Manual Exploitation`
 - [[Sep. 04 2023]] [Morty](https://sec-fortress.github.io/posts/ptd/posts/morty.html) `Steganography, PhpMyAdmin 4.8.1, RCE`
 - [[Sep. 06 2023]] [Stuntman Mike](https://sec-fortress.github.io/posts/ptd/posts/Stuntman%20Mike.html) `SSH Brute force, Sudo Privilege Escalation`
 - [[Sep. 16 2023]] [Junior Dev](https://sec-fortress.github.io/posts/ptd/posts/JuniorDev.html) `Bruteforcing, Jenkins RCE, Pivoting, Python Command Injection`
 - [[Nov. 06 2023]] [ElMariachi-PC](https://sec-fortress.github.io/posts/ptd/posts/ElMariachi-PC.html) `ThinVNC Authentication Bypass, RDP`
-- [[Nov. 06 2023]] [Silence](https://sec-fortress.github.io/posts/ptd/posts/Silence.html) `LFI, Enumeration, Loops, Sudo Privilege Escalation`
+- [[Nov. 06 2023]] [Silence](https://sec-fortress.github.io/posts/ptd/posts/Silence.html) `LFI, Enumeration, Loops, Sudo Privilege Escalation` -->
 
-* * *
+---
+
 ### **ProvingGrounds Writeups:~#**
-* * *
-- [[Jun. 9 2023]] [dc-2](https://sec-fortress.github.io/posts/pg/posts/dc2.html) `GTFOBins, Restricted Environment, Brute forcing`
 
-* * *
+---
+
+<!-- - [[Jun. 9 2023]] [dc-2](https://sec-fortress.github.io/posts/pg/posts/dc2.html) `GTFOBins, Restricted Environment, Brute forcing` -->
+
+---
+
 ### **HackMyVM Writeups:~#**
-* * *
+
+---
+
 <!-- - [[Feb 16 2023]] [Doorknob](https://markuched13.github.io/posts/echoctf/doorknob.html) `NSE Command Injection, Buffer Overflow, Scripting` -->
-- [[Oct. 27 2023]] [Gift](https://sec-fortress.github.io/posts/HackMyVM/posts/Gift.html) `SSH bruteforce`
+
+<!-- - [[Oct. 27 2023]] [Gift](https://sec-fortress.github.io/posts/HackMyVM/posts/Gift.html) `SSH bruteforce`
 - [[Oct. 28 2023]] [Hommie](https://sec-fortress.github.io/posts/HackMyVM/posts/Hommie.html) `UDP tftp, id_rsa, environment variable manipulation`
 - [[Nov. 06 2023]] [Alzheimer](https://sec-fortress.github.io/posts/HackMyVM/posts/alzheimer.html) `Port Knocking, SUID privilege escalation`
 - [[Nov. 17 2023]] [Driftingblues6](https://sec-fortress.github.io/posts/HackMyVM/posts/driftingblues6.html) `Bruteforce, Unrestricted File Upload, Dirty Cow(CVE-2016-5195)`
-- [[Dec. 06 2023]] [WebMaster](https://sec-fortress.github.io/posts/HackMyVM/posts/webmaster.html) `Zone transfer, Nginx Privilege Escalation`
+- [[Dec. 06 2023]] [WebMaster](https://sec-fortress.github.io/posts/HackMyVM/posts/webmaster.html) `Zone transfer, Nginx Privilege Escalation` -->
 
+---
 
-* * *
 ### **Live Jeopardy CTF Writeups:~#**
-* * *
+
+---
+
 <!-- - [[Feb 16 2023]] [Doorknob](https://markuched13.github.io/posts/echoctf/doorknob.html) `NSE Command Injection, Buffer Overflow, Scripting` -->
-- [[Aug. 27 2023]] [Ecowas CTF](https://sec-fortress.github.io/posts/articles/posts/ecowasctf.html)
-- [[Dec. 15 2023]] [IWCON CTF](https://sec-fortress.github.io/posts/articles/posts/iwconctf.html)
 
-* * *
+<!-- - [[Aug. 27 2023]] [Ecowas CTF](https://sec-fortress.github.io/posts/articles/posts/ecowasctf.html)
+- [[Dec. 15 2023]] [IWCON CTF](https://sec-fortress.github.io/posts/articles/posts/iwconctf.html) -->
 
-- **MAIL: olakjosh@gmail.com**
+---
 
-Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on Twitter `@Sec_fortress`. I'm always here to help! xD
+- **MAIL: cyberfreak999@protonmail.com**
+
+Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on Twitter `@precious_eyoh`. I'm always here to help! xD
