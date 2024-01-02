@@ -53,12 +53,6 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Precious, an aspiring penetratio
 
 ---
 
-### **Live Jeopardy CTF Writeups:~#**
+- <a href="mailto:cyberfreak999@protonmail.com">Send an Email</a>
 
----
-
----
-
-- **MAIL: cyberfreak999@protonmail.com**
-
-Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on Twitter `@precious_eyoh`. I'm always here to help! xD
+Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on <a href="https://twitter.com/precious_eyoh" target="_blank" rel="noopener noreferrer">Twitter</a>. I'm always here to help! xD
